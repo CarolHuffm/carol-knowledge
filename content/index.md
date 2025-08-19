@@ -1,5 +1,5 @@
 ---
-This Is Crazy
+This Is Crazy :)
 ---
 ## The index page
 
