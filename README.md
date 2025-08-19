@@ -1,6 +1,6 @@
-# Template for Knowledge Base Docs Websites
+# This is where I will put things
 
-This repository is a template to create a knowledge base docs website: 
+This is the pace I will b putting things for my CMPA class :)
 
 1. The website will be hosted on GitHub Pages. 
 2. After a simple setup, you will only edit Markdown files, commit changes, and push the commits to GitHub. 
