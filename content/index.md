@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+This Is Crazy
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This is where I will be putting things for my CMPA class if I can ever figure out how to do this.
 
 ## Editing pages
 
