@@ -3,7 +3,7 @@ This Is Crazy :)
 ---
 ## The index page
 
-This is where I will be putting things for my CMPA class if I can ever figure out how to do this!This is definitly not easy. :(
+This is where I will be putting things for my CMPA class if I can ever figure out how to do this!This is definitly not easy. :( :(
 
 ## Editing pages
 
